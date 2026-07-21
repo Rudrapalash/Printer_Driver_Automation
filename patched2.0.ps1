@@ -13,7 +13,7 @@ if ($null-eq $check) {
         $ExtractFolder    = "C:\Driver_Installer\Extracted"
         $PrinterIP        = "172.23.20.20"
         $PortName         = "IP_$PrinterIP"
-        $PrinterName      = "EastWingPrinter"
+        $PrinterName      = "Apeos3060"
 
         
         $TargetDriverName = "FF Apeos 3060 PCL 6"
